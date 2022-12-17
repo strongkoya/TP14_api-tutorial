@@ -1,0 +1,36 @@
+{
+  "list": [
+    {
+      "id": 1,
+      "item": "bread"
+    },
+    {
+      "id": 2,
+      "item": "grapes"
+    },
+    {
+      "id": 3,
+      "item": "rice"
+    },
+    {
+      "item": "meat",
+      "id": 4
+    },
+    {
+      "item": "apple",
+      "id": 5
+    },
+    {
+      "item": "peanut butter",
+      "id": 6
+    },
+    {
+      "item": "honey",
+      "id": 7
+    },
+    {
+      "item": "watermelon",
+      "id": 8
+    }
+  ]
+}
